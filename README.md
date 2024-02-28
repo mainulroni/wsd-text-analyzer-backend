@@ -13,6 +13,13 @@ npm run dev
 # or
 yarn dev
 ```
+To run unit test code
+```
+npm run test
+# or
+yarn test
+```
+
 For production 
 ```
 npm start
